@@ -1,6 +1,6 @@
 .transactionHistory {
   width: 600px;
-  margin: 20px auto;
+  margin: 0 auto;
   border-collapse: collapse;
   font-family: sans-serif;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
